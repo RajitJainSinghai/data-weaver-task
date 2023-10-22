@@ -1,0 +1,20 @@
+.input-wrapper {
+    width: 100%;
+    position: relative;
+}
+.input-wrapper input {
+    width: 100%;
+    padding: 10px 34px;
+    border: 1px solid lightgrey;
+    position: relative;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+svg#search-icon {
+    position: absolute;
+    left: 8px;
+    z-index: 9;
+    top: 12px;
+    color: #5e5e5e;
+}

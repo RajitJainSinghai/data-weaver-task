@@ -1,0 +1,17 @@
+.results-list {
+    text-align: left;
+    background: aliceblue;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+    padding: 10px;
+    line-height: 30px;
+    width: 100%;
+    overflow-y: scroll;
+    max-height: 300px;
+    padding: 0;
+    cursor: pointer;
+}
+
+.results-list div:hover {
+    background-color: lightgrey;
+}
